@@ -1,0 +1,31 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\BackpackTask\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.MainForm.resources
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.AddItemForm.resources
+C:\Users\markl\Desktop\BackpackTask\BackpackTask\obj\Debug\BackpackTask.RemoveItemForm.resources
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe.config
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.exe
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.pdb
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\bin\Debug\BackpackTask.exe
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\bin\Debug\BackpackTask.pdb
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csprojResolveAssemblyReference.cache
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.AddItemForm.resources
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.RemoveItemForm.resources
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.MainForm.resources
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.Properties.Resources.resources
+C:\Users\Name\Downloads\BackpackTask\BackpackTask\obj\Debug\BackpackTask.csproj.GenerateResource.Cache
